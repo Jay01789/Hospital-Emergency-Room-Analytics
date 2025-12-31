@@ -32,6 +32,10 @@ Provides a high-level summary of emergency room performance over a selectable da
 **Patient Details**  
 Displays patient-level information in a detailed table, including demographics, wait time, referral department, and admission status for in-depth analysis.
 
+**Key Takeaways**  
+Highlights the most important insights and KPIs from the analysis, summarizing trends, peak periods, patient flow patterns, and operational performance at a glance.
+
+
 ## 📊 Dashboards Included
 The Power BI report contains interactive dashboards focused on:
 - Patient Wait Time & Satisfaction Analysis
